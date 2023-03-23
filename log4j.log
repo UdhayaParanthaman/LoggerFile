@@ -1,0 +1,24 @@
+INFO    2023-03-03 15:10:40,195 [main] com.kumaran.LoggerSample  - This is logger info
+DEBUG   2023-03-03 15:10:40,197 [main] com.kumaran.LoggerSample  - This is debug Error
+WARN    2023-03-03 15:10:40,197 [main] com.kumaran.LoggerSample  - DB Connection Failed
+INFO    2023-03-03 15:11:20,934 [main] com.kumaran.LoggerSample  - This is logger info
+DEBUG   2023-03-03 15:11:20,936 [main] com.kumaran.LoggerSample  - This is debug Error
+WARN    2023-03-03 15:11:20,936 [main] com.kumaran.LoggerSample  - DB Connection Failed
+INFO    2023-03-03 15:11:37,447 [main] com.kumaran.LoggerSample  - This is logger info
+DEBUG   2023-03-03 15:11:37,450 [main] com.kumaran.LoggerSample  - This is debug Error
+WARN    2023-03-03 15:11:37,450 [main] com.kumaran.LoggerSample  - DB Connection Failed
+INFO    2023-03-03 15:13:15,187 [main] com.kumaran.LoggerSample  - This is logger info
+DEBUG   2023-03-03 15:13:15,188 [main] com.kumaran.LoggerSample  - This is debug Error
+WARN    2023-03-03 15:13:15,189 [main] com.kumaran.LoggerSample  - DB Connection Failed
+INFO    2023-03-03 15:13:40,497 [main] com.kumaran.LoggerSample  - This is logger info
+DEBUG   2023-03-03 15:13:40,498 [main] com.kumaran.LoggerSample  - This is debug Error
+WARN    2023-03-03 15:13:40,499 [main] com.kumaran.LoggerSample  - DB Connection Failed
+INFO    2023-03-03 15:14:20,770 [main] com.kumaran.LoggerSample  - This is logger info
+DEBUG   2023-03-03 15:14:20,772 [main] com.kumaran.LoggerSample  - This is debug Error
+WARN    2023-03-03 15:14:20,772 [main] com.kumaran.LoggerSample  - DB Connection Failed
+INFO    2023-03-03 15:14:25,696 [main] com.kumaran.LoggerSample  - This is logger info
+DEBUG   2023-03-03 15:14:25,699 [main] com.kumaran.LoggerSample  - This is debug Error
+WARN    2023-03-03 15:14:25,699 [main] com.kumaran.LoggerSample  - DB Connection Failed
+INFO    2023-03-03 15:14:29,807 [main] com.kumaran.LoggerSample  - This is logger info
+DEBUG   2023-03-03 15:14:29,812 [main] com.kumaran.LoggerSample  - This is debug Error
+WARN    2023-03-03 15:14:29,812 [main] com.kumaran.LoggerSample  - DB Connection Failed
